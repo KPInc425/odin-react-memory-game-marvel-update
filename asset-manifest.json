@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/odin-react-memory-game/static/css/main.3eb04dcb.css",
+    "main.js": "/odin-react-memory-game/static/js/main.9d63fa08.js",
+    "static/media/memba.png": "/odin-react-memory-game/static/media/memba.4f36bc70988feef63668.png",
+    "static/media/Moon Flower Bold.ttf": "/odin-react-memory-game/static/media/Moon Flower Bold.1ccea58ac002b9944067.ttf",
+    "index.html": "/odin-react-memory-game/index.html",
+    "main.3eb04dcb.css.map": "/odin-react-memory-game/static/css/main.3eb04dcb.css.map",
+    "main.9d63fa08.js.map": "/odin-react-memory-game/static/js/main.9d63fa08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eb04dcb.css",
+    "static/js/main.9d63fa08.js"
+  ]
+}
