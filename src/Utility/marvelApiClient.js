@@ -31,7 +31,7 @@ const getMarvelResponse = async () => {
 const fetchCharacters = async (limit) => {
   var ts = new Date().getTime();
   var hash = md5(ts + PRIVATE_KEY + PUBLIC_KEY).toString();
-  var url = 'http://gateway.marvel.com:80/v1/public/characters';
+  var url = 'https://gateway.marvel.com:443/v1/public/characters';
   const randomOffset = Math.floor(
     Math.random() * (totalCharacters - limit)
   );
