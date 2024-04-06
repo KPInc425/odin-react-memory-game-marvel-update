@@ -38,7 +38,7 @@ const fetchCharacters = async (limit) => {
   return await fetch(`${url}?ts=${ts}&apikey=${PUBLIC_KEY}&hash=${hash}&limit=${limit}&offset=${randomOffset}` )
     .then(response => response.json())
     .then(data => {
-      console.log(data)
+      // console.log(data)
       return data.data.results;
     })
     .catch(err => console.log(err));
