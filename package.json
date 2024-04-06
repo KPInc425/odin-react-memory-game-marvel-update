@@ -1,8 +1,8 @@
 {
-  "name": "odin-react-memory-game",
+  "name": "odin-react-memory-game-marvel-update",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://KPInc425.github.io/odin-react-memory-game",
+  "homepage": "http://KPInc425.github.io/odin-react-memory-game-marvel-update",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
