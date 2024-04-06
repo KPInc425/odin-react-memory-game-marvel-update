@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/odin-react-memory-game-marvel-update/static/css/main.a0631b90.css",
-    "main.js": "/odin-react-memory-game-marvel-update/static/js/main.75107f11.js",
+    "main.js": "/odin-react-memory-game-marvel-update/static/js/main.511d8ed2.js",
     "static/media/memba.png": "/odin-react-memory-game-marvel-update/static/media/memba.4f36bc70988feef63668.png",
     "static/media/Moon Flower Bold.ttf": "/odin-react-memory-game-marvel-update/static/media/Moon Flower Bold.1ccea58ac002b9944067.ttf",
     "index.html": "/odin-react-memory-game-marvel-update/index.html",
     "main.a0631b90.css.map": "/odin-react-memory-game-marvel-update/static/css/main.a0631b90.css.map",
-    "main.75107f11.js.map": "/odin-react-memory-game-marvel-update/static/js/main.75107f11.js.map"
+    "main.511d8ed2.js.map": "/odin-react-memory-game-marvel-update/static/js/main.511d8ed2.js.map"
   },
   "entrypoints": [
     "static/css/main.a0631b90.css",
-    "static/js/main.75107f11.js"
+    "static/js/main.511d8ed2.js"
   ]
 }
