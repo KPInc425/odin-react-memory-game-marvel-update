@@ -73,11 +73,15 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Memba Berries... ReMemba!</h1>
-      <p>Memba the berry! Don't memba the same berry twice!</p>
+      <div className="title-container">
+        <div className="title">
+          <h1>Memba Berries... ReMemba! (Marvel Edition)</h1>
+          <p>Memba the berry! Don't memba the same berry twice!</p>
+        </div>
       <div className="score">
         <Score score={score} />
         <BestScore bestScore={bestScore} />
+      </div>
       </div>
       <PlayArea cardsArray={memCardArray} handleCardClick={handleCardClick} />
     </div>
